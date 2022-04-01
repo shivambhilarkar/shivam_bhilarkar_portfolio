@@ -431,6 +431,7 @@ body {
   .home_screen {
     text-align: center;
     font-size: 20px;
+    margin: 20px 20px;
   }
   .home_screen img {
     width: 100%;
@@ -497,4 +498,7 @@ body {
     width: 18%;
     /* border: 2px solid black; */
   }
+  #top_btn {
+    width: 20px;
+    height:20px;
 }
