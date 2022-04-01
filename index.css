@@ -320,7 +320,8 @@ body {
 
 #contact_div .contact_right {
   /* border: 2px solid black; */
-  display: flex;
+/*   display: flex; */
+  display: none;
   justify-content: center;
   align-items: center;
   width: 50%;
