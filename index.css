@@ -103,6 +103,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align:center;
 }
 .home_screen img {
   filter: drop-shadow(5px 5px 105px rgb(251, 255, 0));
@@ -432,6 +433,7 @@ body {
     text-align: center;
     font-size: 20px;
     margin: 20px 20px;
+    
   }
   .home_screen img {
     width: 100%;
