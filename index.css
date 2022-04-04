@@ -334,11 +334,7 @@ body {
 }
 
 #contact_div .contact_right {
-  /* border: 2px solid black; */
-<<<<<<< HEAD
-=======
-/*   display: flex; */
->>>>>>> a8011182fc54ce10c18dc53711447e7bfed0b35c
+
   display: none;
   justify-content: center;
   align-items: center;
@@ -522,4 +518,5 @@ body {
   #top_btn {
     width: 20px;
     height:20px;
+}
 }
