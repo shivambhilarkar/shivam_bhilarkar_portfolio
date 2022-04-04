@@ -106,6 +106,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align:center;
 }
 .home_screen img {
   filter: drop-shadow(5px 5px 105px rgb(232, 245, 248));
@@ -334,6 +335,10 @@ body {
 
 #contact_div .contact_right {
   /* border: 2px solid black; */
+<<<<<<< HEAD
+=======
+/*   display: flex; */
+>>>>>>> a8011182fc54ce10c18dc53711447e7bfed0b35c
   display: none;
   justify-content: center;
   align-items: center;
@@ -446,6 +451,8 @@ body {
   .home_screen {
     text-align: center;
     font-size: 20px;
+    margin: 20px 20px;
+    
   }
   .home_screen img {
     width: 100%;
@@ -512,4 +519,7 @@ body {
     width: 18%;
     /* border: 2px solid black; */
   }
+  #top_btn {
+    width: 20px;
+    height:20px;
 }
